@@ -9553,7 +9553,7 @@ body.catalog-page .catalog-glass .items .item.agc .warr .w3 {
 }
 
 .car-models__wrapper::after {
-    background-image: url('/assets/img/arrow-down.svg');
+    background-image: url('../assets/img/arrow-down.svg');
     content: '';
     position: absolute;
     transform: translateY(-50%);
