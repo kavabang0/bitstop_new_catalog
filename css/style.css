@@ -9534,6 +9534,7 @@ body.catalog-page .catalog-glass .items .item.agc .warr .w3 {
     -webkit-appearance: none;
     border-radius: 33px;
     background-color: #fff;
+    color: #000;
     outline: none;
     border: 0.9px solid #D5DBE1;
     cursor: pointer;
