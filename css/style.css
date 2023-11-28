@@ -9641,7 +9641,7 @@ h2.car-model-title {
 }
 
 .glass-type-filter__checkbox:checked+label::before {
-    background-image: url(../assets/check.svg);
+    background-image: url(../assets/img/check.svg);
 }
 
 .glass-type-filter__name {
