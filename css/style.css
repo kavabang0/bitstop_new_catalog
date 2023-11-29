@@ -9720,7 +9720,7 @@ div > a.catalog-options-button__item {
 }
 
 .catalog-product-wrapper {
-	padding: 17px 33px 38px 45px;
+    padding: 17px 33px 38px 0;
     background-color: #fff;
     border-radius: 10px;
     width: 765px;
@@ -9913,6 +9913,7 @@ div > a.glass-all-characters__link {
 }
 
 .catalog-product__item {
+	margin-left: 45px;
 	margin-bottom: 23px;
 }
 
