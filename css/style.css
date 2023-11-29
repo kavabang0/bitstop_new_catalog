@@ -9805,6 +9805,7 @@ a.select-type__button {
 .cart-product__inner-wrap{
 	display: flex;
 	align-items: start;
+	margin-left: 27px;
 }
 
 .cart-product__image-block {
